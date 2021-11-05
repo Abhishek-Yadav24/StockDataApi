@@ -2,6 +2,7 @@
 # Abhishek@76666
 # Abhishek-Yadav24
 
+
 from flask import Flask,jsonify
 from nsepy import get_history
 import pandas as pd
